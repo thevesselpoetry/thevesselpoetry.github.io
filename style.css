@@ -1,0 +1,41 @@
+body {
+font-size: 3.5vw;
+color: #f8d2bb;
+font-style: italic;
+font-family: 'Indie Flower', cursive;
+background-image: url('images/bg.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+margin-left: 3%;	
+}
+
+h1 {
+margin: 0;
+padding: 0;
+font-size: 16vw;
+font-weight: bold;
+}
+
+div {
+font-size: 4vw;
+font-weight: bold;
+}
+
+pre {
+font-family: 'Indie Flower', cursive;
+}
+
+a {
+font-size: 4vw;
+color: #f8d2bb;
+text-decoration: none;
+}
+
+a:hover {
+color: #db7535
+}
+
+#nohover:hover {
+color: #f8d2bb;
+}
